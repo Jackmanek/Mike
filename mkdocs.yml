@@ -45,6 +45,9 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+extra:
+  version:
+    provider: mike
 
 plugins:
   - search
